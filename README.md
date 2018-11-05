@@ -1,2 +1,3 @@
 # Connect-N
-Similar to connect-4 with user defined size and ability to play against an AI
+Game similar to connect N with user defined board size
+Implemented a version of the minimax algorithm to create and AI for user to play against
